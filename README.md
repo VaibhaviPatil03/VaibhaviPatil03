@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhaviPatil03
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently enhancing my programming skills
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through mail:vaibhavipatil010603@gmail.com
 
